@@ -1,15 +1,14 @@
 var searchData=
 [
-  ['encodeforurl_1528',['EncodeForURL',['../classNWNX_1_1API_1_1Util.html#abb9d78bd756cb980a44da62646d82ab7',1,'NWNX::API::Util']]],
-  ['endgame_1529',['EndGame',['../classNWN_1_1API_1_1NwModule.html#a6a2f13c052802ed7d527eb360c099559',1,'NWN::API::NwModule']]],
-  ['entangle_1530',['Entangle',['../classNWN_1_1API_1_1Effect.html#a29ea2df82272f581e9a8c21ff016a3c6',1,'NWN::API::Effect']]],
-  ['entercutscenemode_1531',['EnterCutsceneMode',['../classNWN_1_1API_1_1NwPlayer.html#a0d3fcfe9ab1c855ae601e067576c3c59',1,'NWN::API::NwPlayer']]],
-  ['entertargetingmode_1532',['EnterTargetingMode',['../classNWN_1_1API_1_1NwPlayer.html#add86a7cd2c5ceafe2e50fa3c6f977fe4',1,'NWN::API::NwPlayer']]],
-  ['entertargetmode_1533',['EnterTargetMode',['../classNWN_1_1Services_1_1CursorTargetService.html#a595eb5cebed66dc7a967020bced165ad',1,'NWN::Services::CursorTargetService']]],
-  ['ethereal_1534',['Ethereal',['../classNWN_1_1API_1_1Effect.html#accbd704684ea2809a8a04aac5e13704f',1,'NWN::API::Effect']]],
-  ['execute_1535',['Execute',['../classNWN_1_1API_1_1NativeScript.html#a2659ddec1c976395b7eb98ea1789be64',1,'NWN.API.NativeScript.Execute(string scriptName, NwObject target, params(string ParamName, string ParamValue)[] scriptParams)'],['../classNWN_1_1API_1_1NativeScript.html#adf64313b6d317bea4f5efa427407a7fd',1,'NWN.API.NativeScript.Execute(string scriptName, params(string ParamName, string ParamValue)[] scriptParams)']]],
-  ['executescript_1536',['ExecuteScript',['../interfaceNWN_1_1Services_1_1IScriptDispatcher.html#abc5b08a4fc3391e0de54aa649b620028',1,'NWN::Services::IScriptDispatcher']]],
-  ['exitcutscenemode_1537',['ExitCutsceneMode',['../classNWN_1_1API_1_1NwPlayer.html#ac0ac14d7281a2ed53c91a441f245a51f',1,'NWN::API::NwPlayer']]],
-  ['exportallcharacters_1538',['ExportAllCharacters',['../classNWN_1_1API_1_1NwModule.html#ad6e1e412dd751f7c5b96a45caf809695',1,'NWN::API::NwModule']]],
-  ['exportcharacter_1539',['ExportCharacter',['../classNWN_1_1API_1_1NwPlayer.html#a21b4b040cc0c45f7e7da59e2c3476802',1,'NWN::API::NwPlayer']]]
+  ['endconversation_2699',['EndConversation',['../classAnvil_1_1API_1_1NwGameObject.html#ad045bb9667479e0ab30b0ce760726dc2',1,'Anvil::API::NwGameObject']]],
+  ['endgame_2700',['EndGame',['../classAnvil_1_1API_1_1NwModule.html#a223f703a30601ef0d4e61f3331cc8989',1,'Anvil::API::NwModule']]],
+  ['entangle_2701',['Entangle',['../classAnvil_1_1API_1_1Effect.html#ac21232f8e266e23c6ddf520a7628dce3',1,'Anvil::API::Effect']]],
+  ['entercutscenemode_2702',['EnterCutsceneMode',['../classAnvil_1_1API_1_1NwPlayer.html#a6be81659c72fd8310b12916246da2cf8',1,'Anvil::API::NwPlayer']]],
+  ['entertargetmode_2703',['EnterTargetMode',['../classAnvil_1_1API_1_1NwPlayer.html#a2444767a1d67ae647fe5e7c67627119c',1,'Anvil::API::NwPlayer']]],
+  ['ethereal_2704',['Ethereal',['../classAnvil_1_1API_1_1Effect.html#a39d7ef984c764862ae69849436152dca',1,'Anvil::API::Effect']]],
+  ['execute_2705',['Execute',['../classAnvil_1_1API_1_1SQLQuery.html#a86f0e6a340152c41a3f1c7fe8cb5c55e',1,'Anvil.API.SQLQuery.Execute()'],['../classAnvil_1_1API_1_1VirtualMachine.html#a00cd534a35d6951503a17e5f2a17c6f1',1,'Anvil.API.VirtualMachine.Execute(string scriptName, NwObject? target, params(string ParamName, string ParamValue)[] scriptParams)'],['../classAnvil_1_1API_1_1VirtualMachine.html#aacb9c482941f7d932ada0342bb04b8c6',1,'Anvil.API.VirtualMachine.Execute(string scriptName, params(string ParamName, string ParamValue)[] scriptParams)']]],
+  ['executescript_2706',['ExecuteScript',['../interfaceAnvil_1_1Services_1_1IScriptDispatcher.html#abf1946ac7c2858d17c2c93d768f9cce2',1,'Anvil::Services::IScriptDispatcher']]],
+  ['exitcutscenemode_2707',['ExitCutsceneMode',['../classAnvil_1_1API_1_1NwPlayer.html#af5cbac8ed60a2d63bfb4f949440d5c6b',1,'Anvil::API::NwPlayer']]],
+  ['exportallcharacters_2708',['ExportAllCharacters',['../classAnvil_1_1API_1_1NwModule.html#a9d1d4a5fdcda6b78f8a30ea85f66c5b1',1,'Anvil::API::NwModule']]],
+  ['exportcharacter_2709',['ExportCharacter',['../classAnvil_1_1API_1_1NwPlayer.html#ae7e21cb4a44b9250ce1fe0e6f6c6dce7',1,'Anvil::API::NwPlayer']]]
 ];

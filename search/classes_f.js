@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['radiussize_1395',['RadiusSize',['../classNWN_1_1API_1_1Constants_1_1RadiusSize.html',1,'NWN::API::Constants']]],
-  ['randomextensions_1396',['RandomExtensions',['../classNWN_1_1API_1_1RandomExtensions.html',1,'NWN::API']]],
-  ['rename_1397',['Rename',['../classNWNX_1_1API_1_1Rename.html',1,'NWNX::API']]],
-  ['resourceevents_1398',['ResourceEvents',['../classNWNX_1_1API_1_1Events_1_1ResourceEvents.html',1,'NWNX::API::Events']]],
-  ['reveal_1399',['Reveal',['../classNWNX_1_1API_1_1Reveal.html',1,'NWNX::API']]]
+  ['radiussize_2480',['RadiusSize',['../classAnvil_1_1API_1_1RadiusSize.html',1,'Anvil::API']]],
+  ['randomextensions_2481',['RandomExtensions',['../classAnvil_1_1API_1_1RandomExtensions.html',1,'Anvil::API']]],
+  ['reflectionextensions_2482',['ReflectionExtensions',['../classAnvil_1_1API_1_1ReflectionExtensions.html',1,'Anvil::API']]],
+  ['registrationdata_2483',['RegistrationData',['../classAnvil_1_1API_1_1Events_1_1GameEventFactory_1_1RegistrationData.html',1,'Anvil::API::Events::GameEventFactory']]],
+  ['resourcemanager_2484',['ResourceManager',['../classAnvil_1_1Services_1_1ResourceManager.html',1,'Anvil::Services']]]
 ];

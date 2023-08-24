@@ -1,9 +1,0 @@
-<map id="NWN.API.NwTrappable" name="NWN.API.NwTrappable">
-<area shape="rect" id="node1" title=" " alt="" coords="163,155,321,181"/>
-<area shape="rect" id="node4" href="$classNWN_1_1API_1_1NwStationary.html" title=" " alt="" coords="74,229,234,256"/>
-<area shape="rect" id="node7" href="$classNWN_1_1API_1_1NwTrigger.html" title=" " alt="" coords="259,229,401,256"/>
-<area shape="rect" id="node2" href="$classNWN_1_1API_1_1NwGameObject.html" title=" " alt="" coords="185,80,299,107"/>
-<area shape="rect" id="node3" href="$classNWN_1_1API_1_1NwObject.html" title=" " alt="" coords="202,5,282,32"/>
-<area shape="rect" id="node5" href="$classNWN_1_1API_1_1NwDoor.html" title=" " alt="" coords="5,304,135,331"/>
-<area shape="rect" id="node6" href="$classNWN_1_1API_1_1NwPlaceable.html" title=" " alt="" coords="159,304,317,331"/>
-</map>

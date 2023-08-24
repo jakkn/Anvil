@@ -1,19 +1,12 @@
 var searchData=
 [
-  ['randomname_1646',['RandomName',['../classNWN_1_1API_1_1NwRandom.html#a63d3f0c2236aa4c14e339edc20474175',1,'NWN::API::NwRandom']]],
-  ['recomputestaticlighting_1647',['RecomputeStaticLighting',['../classNWN_1_1API_1_1NwArea.html#a5b21ad0604f9c799e666faadc5afdb67',1,'NWN::API::NwArea']]],
-  ['register_3c_20tobject_2c_20tevent_20_3e_1648',['Register&lt; TObject, TEvent &gt;',['../classNWN_1_1Services_1_1EventService.html#a59814fbacb3e537443f3bcd642ead5b4',1,'NWN::Services::EventService']]],
-  ['registerserverconsolecommand_1649',['RegisterServerConsoleCommand',['../classNWNX_1_1API_1_1Util.html#a6cc65d14509c1ff9786ad93651b552b3',1,'NWNX::API::Util']]],
-  ['reloadrules_1650',['ReloadRules',['../classNWNX_1_1API_1_1Administration.html#ac3f5596378886111fc32a797b33a8ba9',1,'NWNX::API::Administration']]],
-  ['removebannedip_1651',['RemoveBannedIP',['../classNWNX_1_1API_1_1Administration.html#aa3f932d867231f24af69ecf10eca63d0',1,'NWNX::API::Administration']]],
-  ['removeeffect_1652',['RemoveEffect',['../classNWN_1_1API_1_1NwCreature.html#a11d32f088286437a8c0587857d6b024e',1,'NWN::API::NwCreature']]],
-  ['removefromcurrentparty_1653',['RemoveFromCurrentParty',['../classNWN_1_1API_1_1NwPlayer.html#af579918539409eac24ff1ad318af22b1',1,'NWN::API::NwPlayer']]],
-  ['removeitemproperty_1654',['RemoveItemProperty',['../classNWN_1_1API_1_1NwItem.html#ae8e8fc98088e6ed037271d97be277719',1,'NWN::API::NwItem']]],
-  ['removenwnxresourcefile_1655',['RemoveNWNXResourceFile',['../classNWNX_1_1API_1_1Util.html#acb0d44fee6cecc6b3e29bd1026815243',1,'NWNX::API::Util']]],
-  ['reputation_1656',['Reputation',['../classNWN_1_1API_1_1NwCreature.html#a3b0a06b8583fdce9a41afcf17a720209',1,'NWN::API::NwCreature']]],
-  ['restorebaseattackbonus_1657',['RestoreBaseAttackBonus',['../classNWN_1_1API_1_1NwCreature.html#a9c3d51ce2869e467a623bb81793dd178',1,'NWN::API::NwCreature']]],
-  ['roll_1658',['Roll',['../classNWN_1_1API_1_1NwRandom.html#ac0bd7629dd2e82d429a1941be8e8f722',1,'NWN::API::NwRandom']]],
-  ['rollsavingthrow_1659',['RollSavingThrow',['../classNWN_1_1API_1_1NwGameObject.html#a48f2f97fe6a827b2f22c42f8ba05e0f1',1,'NWN::API::NwGameObject']]],
-  ['run_1660',['Run',['../classNWN_1_1API_1_1NwTask.html#a428195b0ca86f8ca2087caf51d95ca29',1,'NWN::API::NwTask']]],
-  ['run_3c_20t_20_3e_1661',['Run&lt; T &gt;',['../classNWN_1_1API_1_1NwTask.html#a8b083dfcaa4e54077bd577986e3743eb',1,'NWN::API::NwTask']]]
+  ['negativelevel_2936',['NegativeLevel',['../classAnvil_1_1API_1_1Effect.html#a1d223aa08f1fd97a9d794376cfbd701e',1,'Anvil::API::Effect']]],
+  ['nextdouble_2937',['NextDouble',['../classAnvil_1_1API_1_1RandomExtensions.html#a07a44c345d42195471b4532898bea5f3',1,'Anvil::API::RandomExtensions']]],
+  ['nextfloat_2938',['NextFloat',['../classAnvil_1_1API_1_1RandomExtensions.html#aff7be2dae11a8b448f5bf3ae7f5cde65',1,'Anvil.API.RandomExtensions.NextFloat(this Random random)'],['../classAnvil_1_1API_1_1RandomExtensions.html#a3e7c57f44e85e88f556dd79c1a44c2e4',1,'Anvil.API.RandomExtensions.NextFloat(this Random random, float minValue, float maxValue)']]],
+  ['nextframe_2939',['NextFrame',['../classAnvil_1_1API_1_1NwTask.html#a1ec8beac2031f0c3aeaf7f1fb75a9fd2',1,'Anvil::API::NwTask']]],
+  ['nighttoday_2940',['NightToDay',['../classAnvil_1_1API_1_1NwPlayer.html#a5c6b6518b014b355a25f23af0d2d31fd',1,'Anvil::API::NwPlayer']]],
+  ['nuidestroy_2941',['NuiDestroy',['../classAnvil_1_1API_1_1NwPlayer.html#a9266745f1f4c9fc6e9493523d67b3994',1,'Anvil::API::NwPlayer']]],
+  ['nuigetuserdata_3c_20t_20_3e_2942',['NuiGetUserData&lt; T &gt;',['../classAnvil_1_1API_1_1NwPlayer.html#a8e028194bb5192fd5f17b11d988ea1db',1,'Anvil::API::NwPlayer']]],
+  ['nuigetwindowid_2943',['NuiGetWindowId',['../classAnvil_1_1API_1_1NwPlayer.html#a3f675a88a459e6b22ed0681b6565ee57',1,'Anvil::API::NwPlayer']]],
+  ['nuisetuserdata_3c_20t_20_3e_2944',['NuiSetUserData&lt; T &gt;',['../classAnvil_1_1API_1_1NwPlayer.html#a2252ae7f71d52bd2edd1b6cab526e74d',1,'Anvil::API::NwPlayer']]]
 ];

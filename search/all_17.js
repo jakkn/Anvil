@@ -1,4 +1,6 @@
 var searchData=
 [
-  ['yardstometers_990',['YardsToMeters',['../classNWN_1_1API_1_1NwMath.html#a6b473ca1d1418a5e3d3949bbf0465396',1,'NWN::API::NwMath']]]
+  ['xp_1975',['Xp',['../classAnvil_1_1API_1_1NwCreature.html#a54095d1fd30770109dde23bfec451606',1,'Anvil::API::NwCreature']]],
+  ['xp_1976',['XP',['../classAnvil_1_1API_1_1ExpTableEntry.html#a4e66ec8827c60e45105f01a997bd7cc0',1,'Anvil::API::ExpTableEntry']]],
+  ['xpscale_1977',['XPScale',['../classAnvil_1_1API_1_1NwModule.html#ad01ae6eda581c522f8f42a693c4df048',1,'Anvil::API::NwModule']]]
 ];

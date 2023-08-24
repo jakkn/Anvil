@@ -1,6 +1,11 @@
 var searchData=
 [
-  ['keyautoremoved_1876',['KeyAutoRemoved',['../classNWN_1_1API_1_1NwStationary.html#aaf4e653c73f33a48a5ad81d01d769c41',1,'NWN::API::NwStationary']]],
-  ['keyrequiredfeedback_1877',['KeyRequiredFeedback',['../classNWN_1_1API_1_1NwStationary.html#a9c6051e053da532aca141ec104917feb',1,'NWN::API::NwStationary']]],
-  ['kicked_1878',['Kicked',['../classNWNX_1_1API_1_1Events_1_1PartyEvents_1_1OnKickBefore.html#a8b8beeb5b7c8c46bdec9dcb6dd0ebceb',1,'NWNX.API.Events.PartyEvents.OnKickBefore.Kicked()'],['../classNWNX_1_1API_1_1Events_1_1PartyEvents_1_1OnKickAfter.html#a31c5ba2bfa6b82b2dcf9bc51dd0d33eb',1,'NWNX.API.Events.PartyEvents.OnKickAfter.Kicked()']]]
+  ['keyability_3586',['KeyAbility',['../classAnvil_1_1API_1_1NwSkill.html#afaa48c3de5f0984198849cb20f70dfd7',1,'Anvil::API::NwSkill']]],
+  ['keyautoremoved_3587',['KeyAutoRemoved',['../classAnvil_1_1API_1_1NwStationary.html#af5a17c15047e2d2482ec3cd0154c99fd',1,'Anvil::API::NwStationary']]],
+  ['keyrequiredfeedback_3588',['KeyRequiredFeedback',['../classAnvil_1_1API_1_1NwStationary.html#aeb35968168a653e788fe3708d974cb0e',1,'Anvil::API::NwStationary']]],
+  ['keys_3589',['Keys',['../classAnvil_1_1API_1_1GffResourceField.html#a5b54edc9741c6512b708aecb751af085',1,'Anvil::API::GffResourceField']]],
+  ['kickmessage_3590',['KickMessage',['../classAnvil_1_1API_1_1Events_1_1OnClientConnect.html#adb0407c4b9b4a97c6cf9ba4646ee0dd4',1,'Anvil::API::Events::OnClientConnect']]],
+  ['killedcreature_3591',['KilledCreature',['../classAnvil_1_1API_1_1Events_1_1CreatureEvents_1_1OnDeath.html#ace3a7e38c412d1cebc52a12bddbbbf48',1,'Anvil::API::Events::CreatureEvents::OnDeath']]],
+  ['killedobject_3592',['KilledObject',['../classAnvil_1_1API_1_1Events_1_1PlaceableEvents_1_1OnDeath.html#a95bf77a999437871810c9da2d2c2763f',1,'Anvil::API::Events::PlaceableEvents::OnDeath']]],
+  ['killer_3593',['Killer',['../classAnvil_1_1API_1_1Events_1_1CreatureEvents_1_1OnDeath.html#a0fec3fd1f3e5f88eaeec29b4375e6a89',1,'Anvil.API.Events.CreatureEvents.OnDeath.Killer()'],['../classAnvil_1_1API_1_1Events_1_1DoorEvents_1_1OnDeath.html#a2ce70c43834fbb501ed40b25f5e4d6e2',1,'Anvil.API.Events.DoorEvents.OnDeath.Killer()'],['../classAnvil_1_1API_1_1Events_1_1ModuleEvents_1_1OnPlayerDeath.html#abcad685cad30f30bcf5c33439f551da8',1,'Anvil.API.Events.ModuleEvents.OnPlayerDeath.Killer()'],['../classAnvil_1_1API_1_1Events_1_1PlaceableEvents_1_1OnDeath.html#af3207e6604c3c1eaa987b889ca548003',1,'Anvil.API.Events.PlaceableEvents.OnDeath.Killer()']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['degtorad_1728',['DegToRad',['../classNWN_1_1API_1_1NwMath.html#ac33940a497125b4ec08b1eaf18c12594',1,'NWN::API::NwMath']]],
-  ['durationtype_1729',['DurationType',['../classNWN_1_1API_1_1ItemProperty.html#a2d493ac98fee7ed82e2c7073c52c2851',1,'NWN::API::ItemProperty']]]
+  ['degtorad_3176',['DegToRad',['../classAnvil_1_1API_1_1NwMath.html#a0514a6c0a69c66aaf9cc403bf480d4d5',1,'Anvil::API::NwMath']]]
 ];

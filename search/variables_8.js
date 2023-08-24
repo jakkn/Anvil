@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['meterstofeet_1740',['MetersToFeet',['../classNWN_1_1API_1_1NwMath.html#ae50b99ae80a04c8da0441ecb27c336a6',1,'NWN::API::NwMath']]],
-  ['meterstoyards_1741',['MetersToYards',['../classNWN_1_1API_1_1NwMath.html#ac084a74a4414a10c25ffd652936f158c',1,'NWN::API::NwMath']]]
+  ['nextupdate_3182',['NextUpdate',['../classAnvil_1_1Services_1_1SchedulerService.html#a68f70d765cb4305a506901b630986325',1,'Anvil::Services::SchedulerService']]]
 ];
